@@ -25,9 +25,12 @@ order: 4
 
 ## Другие ресурсы
 - [Telegram-канал](https://t.me/ubertrader_ru) — анонсы постов и текущие мысли
+- [Max-канал](https://max.ru/join/HPsG1KxrFJieWLx8qTjaoxbabNd_7-c2LMraoefeOr0) — зеркало ТГ
 - [ubertrader.livejournal.com](https://ubertrader.livejournal.com/) — старый блог (с 2010 по 2014)
 - [heaventrading.wordpress.com](https://heaventrading.wordpress.com/) — старый блог (2007–2008)
 - [https://smart-lab.ru/profile/ubertrader/](https://smart-lab.ru/profile/ubertrader/) — Smart-lab (старые записи и зеркало блога)
+- [https://sponsr.ru/ubertrader/](https://sponsr.ru/ubertrader/) - зеркало блога
+- [Т-Банк Пульс](https://www.tbank.ru/invest/social/profile/ubertrader_ru/) - зеркало блога
 - [GitHub](https://github.com/alexveden) — текущие open-source проекты в области трейдинга и не только
 
 ## Обратная связь
