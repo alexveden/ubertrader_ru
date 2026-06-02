@@ -1,0 +1,30 @@
+# markdownlint config for Jekyll/Chirpy blog
+
+# MD013 — line length (Russian prose, disable)
+MD013: false
+
+# MD036 — emphasis instead of heading (allow "Архивный пост" convention)
+MD036: false
+
+# MD004 — allow both dash and asterisk for unordered lists
+MD004: false
+
+# MD050 — allow both asterisk and underscore for strong/bold
+MD050: false
+
+# MD024 — duplicate headings allowed if in different siblings
+MD024:
+  siblings_only: true
+
+# MD007 — nested list indent 2 spaces (matches .editorconfig)
+MD007:
+  indent: 2
+
+# Inline HTML — needed for Liquid tags
+MD033: false
+
+# First line heading — conflicts with Jekyll front matter
+MD041: false
+
+# Bare URLs — allow
+MD034: false

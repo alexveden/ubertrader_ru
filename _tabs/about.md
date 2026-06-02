@@ -24,6 +24,7 @@ order: 4
 - **трейдинг** — хардкорные вещи систематического трейдинга: много кода, исследований и принципов.
 
 ## Другие ресурсы
+
 - [Telegram-канал](https://t.me/ubertrader_ru) — анонсы постов и текущие мысли
 - [Max-канал](https://max.ru/join/HPsG1KxrFJieWLx8qTjaoxbabNd_7-c2LMraoefeOr0) — зеркало ТГ
 - [ubertrader.livejournal.com](https://ubertrader.livejournal.com/) — старый блог (с 2010 по 2014)

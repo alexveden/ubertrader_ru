@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "markdownlint --ignore node_modules '_posts/**/*.md' '_drafts/**/*.md' '_tabs/**/*.md'"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
+  }
+}
